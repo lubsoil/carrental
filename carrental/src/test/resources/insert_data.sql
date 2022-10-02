@@ -1,0 +1,1 @@
+INSERT INTO `cars` ( `car_code`, `model`, `seats`, `borrowed`) VALUES ( 'test123', 'test123', '3', '0'), ('test234', 'test234', '4', '1')
